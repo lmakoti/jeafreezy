@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Emmanuel Jolaiya here. I'm a GIS/Python Developer!
+
+Emmanuel Jolaiya here! A GIS/Python Developer with a solid background in Remote Sensing and GIS. I volunteer, drive communities and do cool stuffs with technology. I also flourish in a multidisciplinary team. Give me a problem and I'll come back with a solution in record time.Tell me to do something,and expect it done perfectly!
+
+Well,I can be John Snow to some programming languages,frameworks,libraries etc,but I know they exist and I'm happy to pick them up when the need arises. For now, I'm all over RS & GIS(my major), Python(GIS Analysis, Django etc) and Javascript(React + WebGIS). I'll continue to deepen my knowledge by working on projects with those technologies. However, I consider myself a forever learner, so I'm super happy to try out new techologies!😄
+
+Finally, I'm looking to collaborate on high-impact projects that solve pressing problems using data and technology.
+
+Cheers!
+
+
