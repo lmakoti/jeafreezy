@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/twitter/follow/jeafreezy?style=social)](https://twitter.com/jeafreezy)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://youtube.com/channel/UCdYaK054HlTq49qOJDTh2oA)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/emmanueljolaiya/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1TheMM5Ny5AoBOIaUuzc9PnSd-gZ9Hqgd/view?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1aEFxcO5ASXLUnKn_MRkVedzpqzedQfXG/view?usp=sharing)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jeafreezy.jeafreezy)
 
 Emmanuel is a Geospatial Software Engineer with a solid background in Remote Sensing and GIS. He loves to volunteer, drive communities and do cool stuffs with technology. He also flourish in a multidisciplinary team. He is currently building [Spatialnode](https://spatialnode.net) for the geospatial community to showcase their works, tap inspirations and discover opportunities. When he's not on his PC, he is either playing table tennis 🏓, cycling 🚴🏾‍♂️ or at the Gym keeping fit for his employers & colleagues to get the best of him!
