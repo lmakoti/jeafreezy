@@ -46,6 +46,18 @@ Emmanuel is a Geospatial Software Engineer with a solid background in Remote Sen
 - [**Podcast**](https://africageoconvo.com)
 - [**Fiverr**](https://www.fiverr.com/jolaiyaemmanuel/help-you-with-your-gis-analysis)
 
+
+
+### Quick Links
+- [**Old python scripts repo including 30days of code challenge solution**](https://github.com/jeafreezy/Old-projects)
+- [**An attempt to automate Land Surface Temperature(LST) with Python**](https://github.com/jeafreezy/LST-with-Python)
+- [**An attempt to interface Shopify API with Node JS**](https://github.com/jeafreezy/shoppynode)
+- [**Africa GeoConvo Website-First project with NextJS**](https://github.com/jeafreezy/Africa-GeoConvo-Podcast-Web)
+- [**Web GIS roadmap blog with Tek Kshetri published on GIS Lounge**](https://github.com/jeafreezy/webgis-roadmap)
+- [**Navigation PWA project for my school**](https://github.com/jeafreezy/FUTA-Campus-Guide)
+- [**Playing with Leaflet and Geoserver**](https://github.com/jeafreezy/leaflet_geoserver_test)
+- [**Working with OpenStreetMap data with python**](https://github.com/jeafreezy/FunScripts)
+
 ### Talks & Interviews
 - [**Podcast: Perspectives on GIS in Africa with Africa GeoConvo with Directions Magazine Podcast**](https://www.youtube.com/watch?v=5mZSPL8we2Q)
 - [**GIS Technology in Africa with WeDeyCode**](https://www.youtube.com/watch?v=oip7_dC2uyY&t=25s)
