@@ -34,9 +34,9 @@ Emmanuel is a Geospatial Software Engineer with a solid background in Remote Sen
 
 ### Blogs
 
-- [GIS Lounge](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
-- [Medium](https://blog.gishub.org/a-streamlit-app-for-creating-timelapse-of-annual-landsat-imagery-1984-2021)
-- [Hashnode](https://blog.gishub.org/the-arcgis-toolbox-for-whiteboxtools-v20-released)
+- [**GIS Lounge**](https://www.gislounge.com/author/emmanuel-jolaiya/)
+- [**Medium**](https://medium.com/@jolaiyaemmanuel)
+- [**Hashnode**](https://jeafreezy.hashnode.dev/)
 
 ### Happy to connect 📫
 - [**Spatialnode Portfolio**](https://spatialnode.net/emmanuel)
@@ -54,7 +54,7 @@ Emmanuel is a Geospatial Software Engineer with a solid background in Remote Sen
 - [**An attempt to interface Shopify API with Node JS**](https://github.com/jeafreezy/shoppynode)
 - [**Africa GeoConvo Website-First project with NextJS**](https://github.com/jeafreezy/Africa-GeoConvo-Podcast-Web)
 - [**Web GIS roadmap blog with Tek Kshetri published on GIS Lounge**](https://github.com/jeafreezy/webgis-roadmap)
-- [**Navigation PWA project for my school**](https://github.com/jeafreezy/FUTA-Campus-Guide)
+- [**Navigation PWA project for FUTA**](https://github.com/jeafreezy/FUTA-Campus-Guide)
 - [**Playing with Leaflet and Geoserver**](https://github.com/jeafreezy/leaflet_geoserver_test)
 - [**Working with OpenStreetMap data with python**](https://github.com/jeafreezy/FunScripts)
 
